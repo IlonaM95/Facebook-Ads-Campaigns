@@ -13,7 +13,7 @@ This project involves the creation of a PostgreSQL script to merge data from thr
 ![Looker_Studio_FB_Ads_Campaigns](https://github.com/user-attachments/assets/7831409e-a460-41f7-ae1e-a3abfda3e0de)
 <br>
 <br>
-## Project Details
+## Project details
 ### 1. PostgreSQL Script
   A script was developed in PostgreSQL (using DBeaver) to merge data from 3 tables and compute the following KPIs and metrics:
    - Total Spend
@@ -24,7 +24,7 @@ This project involves the creation of a PostgreSQL script to merge data from thr
    - Cost Per Mille (CPM)
    - Click-Through Rate (CTR)
    - Return on Marketing Investment (ROMI)
-### 2. Looker Studio Dashboard
+### 2. Looker Studio dashboard
   Using the above-calculated data, a comprehensive dashboard was created in Looker Studio, featuring:
    - **combined chart** - shows the sum of Ad Spend and ROMI for each month,
    - **line chart** - displays the number of active campaigns for each month in which the ads were displayed,
